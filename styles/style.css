@@ -70,6 +70,10 @@ list-style: none;
   background-blend-mode: overlay;
   color: white;
   padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 
   
 }
@@ -123,3 +127,27 @@ list-style: none;
   color: red;
   border-radius: 25px;
 }
+.servise{
+  padding: 15px;
+  background-color: white;
+  box-shadow: 4px 4px 8px grey;
+  width: 200px;
+  height: 200px;
+  color: black;
+  border-radius: 10px;
+  margin: 5px;
+}
+.service-logo{
+  width: 50%;
+  padding-bottom: 10px;
+}
+.service-up{
+  display: flex;
+}
+.service-down{
+  display: flex;
+}
+.service-left-container{
+  width: 50%;
+}
+
