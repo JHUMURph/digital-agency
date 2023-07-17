@@ -196,3 +196,54 @@ list-style: none;
   border-radius: 25px;
   border: none;
 }
+.blog-title{
+  font-size: 50px;
+  padding: 10px;
+  font-weight: bold;
+}
+.blogs-head{
+  color: red;
+}
+.blog-box{
+  text-align: center;
+  margin-top: 30px;
+}
+.blog-description{
+  font-size: 22px;
+  width: 50%;
+  margin: auto;
+}
+.blog{
+  width: 350px;
+  height: 430px;
+  background-color: white;
+  box-shadow: 4px 4px 8px grey;
+  border-radius: 10px;
+
+}
+.blog-img{
+  width: 350px;
+  border-radius: 10px;
+  padding-bottom: 10px;
+}
+.blog-text{
+  padding: 15px;
+  
+}
+.blog-tit{
+  font-size: 22px;
+  padding: 10px;
+  
+  font-weight: bold;
+}
+.blog-description{
+  font-size:15px;;
+  
+}
+.blogs{
+  margin-top: 35px;
+  padding: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
